@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"Netflix"
+    },
+    {
+        "id":2,
+        "name":"Directv Go"
+    },
+    {
+        "id":3,
+        "name":"HBO Max"
+    },
+    {
+        "id":4,
+        "name":"Prime Video"
+    },
+    {
+        "id":5,
+        "name":"TikTok"
+    },
+    {
+        "id":6,
+        "name":"Apple Music"
+    },
+    {
+        "id":7,
+        "name":"Spotify"
+    },
+    {
+        "id":8,
+        "name":"Youtube"
+    },
+    {
+        "id":9,
+        "name":"Twitch"
+    },
+    {
+        "id":10,
+        "name":"Zoom"
+    },
+    {
+        "id":11,
+        "name":"Disney+"
+    },
+    {
+        "id":12,
+        "name":"Free fire"
+    },
+    {
+        "id":13,
+        "name":"Candy Crush"
+    },
+    {
+        "id":14,
+        "name":"Paramount+"
+    },
+    {
+        "id":15,
+        "name":"Star+"
+    }
+]
