@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "name":"SIM CARD V8.5 TRIO GRANEL ATT",
+        "plan":1//ATT Más
+    },
+    {
+        "id":2,
+        "name":"SIM CARD V8.5 5R TRIO DISPLAY UNEFON",
+        "plan":2 //Unefon ilimitado 2.0
+    }
+]
