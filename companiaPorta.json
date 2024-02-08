@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name":"Telcel"
+    },
+    {
+        "id":2,
+        "name":"Movistar"
+    },
+    {
+        "id":3,
+        "name":"Otra"
+    }
+]
