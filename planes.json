@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"AT&T Azul 1"
+    },
+    {
+        "id":2,
+        "name":"AT&T Azul 2"
+    },
+    {
+        "id":3,
+        "name":"AT&T Azul 3"
+    },
+    {
+        "id":4,
+        "name":"AT&T Plata"
+    },
+    {
+        "id":5,
+        "name":"AT&T Oro"
+    },
+    {
+        "id":6,
+        "name":"AT&T Black"
+    },
+    {
+        "id":7,
+        "name":"AT&T Diamante"
+    },
+    {
+        "id":8,
+        "name":"AT&T iPhone"
+    }
+]
