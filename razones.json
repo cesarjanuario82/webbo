@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Grabación- Buzón"
+    },
+    {
+        "id":2,
+        "name":"Grabación - contestadora/se dejó mensaje"
+    },
+    {
+        "id":3,
+        "name":"Grabación - teléfono suspendido"
+    },
+    {
+        "id":4,
+        "name":"Tonos - Linea ocupada"
+    },
+    {
+        "id":5,
+        "name":"Tonos no contesta"
+    },
+    {
+        "id":6,
+        "name":"Grabación - Número no existe"
+    },
+    {
+        "id":7,
+        "name":"Otro"
+    }
+]
