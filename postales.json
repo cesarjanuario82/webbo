@@ -1,0 +1,58 @@
+[
+    {
+        "error": false,
+        "code_error": 0,
+        "error_message": null,
+        "response": {
+        "cp": "09810",
+        "asentamiento": "Minerva",
+            "tipo_asentamiento": "Colonia",
+            "municipio": "Iztapalapa",
+            "estado": "Ciudad de México",
+            "ciudad": "Ciudad de México",
+            "pais": "México"
+        }
+    },
+    {
+        "error": false,
+        "code_error": 0,
+        "error_message": null,
+        "response": {
+            "cp": "09810",
+            "asentamiento": "Granjas Esmeralda",
+            "tipo_asentamiento": "Colonia",
+            "municipio": "Iztapalapa",
+            "estado": "Ciudad de México",
+            "ciudad": "Ciudad de México",
+            "pais": "México"
+        }
+    },
+    {
+        "error": false,
+        "code_error": 0,
+        "error_message": null,
+        "response": {
+            "cp": "09810",
+            "asentamiento": "Los Cipreses",
+            "tipo_asentamiento": "Colonia",
+            "municipio": "Iztapalapa",
+            "estado": "Ciudad de México",
+            "ciudad": "Ciudad de México",
+            "pais": "México"
+        }
+    },
+    {
+        "error": false,
+        "code_error": 0,
+        "error_message": null,
+        "response": {
+            "cp": "09810",
+            "asentamiento": "Progreso del Sur",
+            "tipo_asentamiento": "Colonia",
+            "municipio": "Iztapalapa",
+            "estado": "Ciudad de México",
+            "ciudad": "Ciudad de México",
+            "pais": "México"
+        }
+    }
+]
