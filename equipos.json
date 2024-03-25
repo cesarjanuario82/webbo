@@ -10,7 +10,7 @@
         "id":2,
         "name":"XIAOMI REDMI 13C VERDE ATT",
         "description":"XIAOMI REDMI 13C VERDE ATT",
-        "Gama":"Medium",
+        "Gama":"medium",
         "quantity":100
     },
     {
@@ -38,14 +38,14 @@
         "id":6,
         "name":"OPPO A58 128GB NEGRO ATT",
         "description":"OPPO A58 128GB NEGRO ATT",
-        "Gama":"Medium",
+        "Gama":"medium",
         "quantity":100
     },
     {
         "id":7,
         "name":"MOTOROLA MOTO G54 AZUL INDIGO ATT",
         "description":"MOTOROLA MOTO G54 AZUL INDIGO ATT",
-        "Gama":"Medium",
+        "Gama":"medium",
         "quantity":100
     },
     {
