@@ -1,34 +1,58 @@
 [
     {
         "id":1,
-        "name":"SAMSUNG GALAXY A15 LTE 128GB BLACK ATT"
+        "name":"SAMSUNG GALAXY A15 LTE 128GB BLACK ATT",
+        "description":"SAMSUNG GALAXY A15 LTE 128GB BLACK ATT",
+        "Gama":"low",
+        "quantity":100
     },
     {
         "id":2,
-        "name":"XIAOMI REDMI 13C VERDE ATT"
+        "name":"XIAOMI REDMI 13C VERDE ATT",
+        "description":"XIAOMI REDMI 13C VERDE ATT",
+        "Gama":"Medium",
+        "quantity":100
     },
     {
         "id":3,
-        "name":"XIAOMI REDMI 13C AZUL ATT"
+        "name":"XIAOMI REDMI 13C AZUL ATT",
+        "description":"XIAOMI REDMI 13C AZUL ATT",
+        "Gama":"low",
+        "quantity":100
     },
     {
         "id":4,
-        "name":"HONOR X6A SILVER ATT"
+        "name":"HONOR X6A SILVER ATT",
+        "description":"HONOR X6A SILVER ATT",
+        "Gama":"low",
+        "quantity":100
     },
     {
         "id":5,
-        "name":"HONOR X6A PLUS SILVER ATT"
+        "name":"HONOR X6A PLUS SILVER ATT",
+        "description":"HONOR X6A PLUS SILVER ATT",
+        "Gama":"low",
+        "quantity":100
     },
     {
         "id":6,
-        "name":"OPPO A58 128GB NEGRO ATT"
+        "name":"OPPO A58 128GB NEGRO ATT",
+        "description":"OPPO A58 128GB NEGRO ATT",
+        "Gama":"Medium",
+        "quantity":100
     },
     {
         "id":7,
-        "name":"MOTOROLA MOTO G54 AZUL INDIGO ATT"
+        "name":"MOTOROLA MOTO G54 AZUL INDIGO ATT",
+        "description":"MOTOROLA MOTO G54 AZUL INDIGO ATT",
+        "Gama":"Medium",
+        "quantity":100
     },
     {
         "id":8,
-        "name":"SIM CARD V8.5 TRIO GRANEL ATT"
+        "name":"SIM CARD V8.5 TRIO GRANEL ATT",
+        "description":"SIM CARD V8.5 TRIO GRANEL ATT",
+        "Gama":"low",
+        "quantity":100
     }
 ]
