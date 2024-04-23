@@ -1,0 +1,20 @@
+[
+  {
+      "name": "Administrador de Usuarios",
+      "idProfile": 1,
+      "profileCode": "UserAdmin",
+      "descr": "Creaci¿n y baja de usuarios, asignacion de campa¿as"
+  },
+  {
+      "name": "Agente",
+      "idProfile": 2,
+      "profileCode": "Agente",
+      "descr": "Creaci¿n y seguimiento a ordenes"
+  },
+  {
+      "name": "Back Office",
+      "idProfile": 3,
+      "profileCode": "BackOffice",
+      "descr": "Descargar base de ordenes, creacion de ordenes, cambiar estatus de velidacion (Avanzar, Cancelar ordenes), carga de inventario de Equipos y SIM, actualizacion y modificacion de CP, alta de numeros, correos, direcciones, etc. en black list, actualizacion de ofertas comeraciales y aplicaciones (RS y Aplicaciones Steraming)."
+  }
+]
