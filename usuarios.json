@@ -1,0 +1,32 @@
+[
+  {
+    "id":"cm460v",
+    "idPerfil": 2,
+    "campaigns": [1],
+    active: true
+  },
+  {
+    "id":"au433j",
+    "idPerfil": 2,
+    "campaigns": [1,2],
+    active:true
+  },
+  {
+    "id":"io8983e",
+    "idPerfil": 1,
+    "campaigns": [],
+     active:true
+  },
+  {
+    "id":"rd765t",
+    "idPerfil": 2,
+    "campaigns": [1,2],
+    active:false
+  },
+  {
+    "id":"pl322u",
+    "idPerfil": 2,
+    "campaigns": [1,2],
+    active:true
+  },
+]
