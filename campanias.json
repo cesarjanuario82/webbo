@@ -1,0 +1,22 @@
+[
+  {
+      "name": "Sim Only Contrato Digital",
+      "campaignCode": "HIBRIDO",
+      "idCampaign": 1
+  },
+  {
+      "name": "Venta Nueva - Adiciones",
+      "campaignCode": "ADICIONES OUT",
+      "idCampaign": 2
+  },
+  {
+      "name": "Portabilidad",
+      "campaignCode": "DIGITAL POSTPAGO | PREPAGO PORTABILIDAD",
+      "idCampaign": 3
+  },
+  {
+      "name": "Migraciones de Prepago a Postpago",
+      "campaignCode": "PRE A POS",
+      "idCampaign": 4
+  }
+]
