@@ -2,6 +2,7 @@
   {
     "id": "20240301-9512645915",
     "attuid": "MAG9346",
+    "idCampaign":"SimOnly",
     "botComments": "",
     "DN": "5545712533",
     "Customerid": "9889322",
@@ -18,6 +19,7 @@
   {
     "id": "12240301-3434234223",
     "attuid": "MAG9346",
+    "idCampaign":"Adiciones",
     "botComments": "",
     "DN": "5525712233",
     "Customerid": "61612332",
@@ -34,6 +36,7 @@
   {
     "id": "28373733-1234567678",
     "attuid": "MAG9346",
+    "idCampaign":"SimOnly",
     "botComments": "",
     "DN": "5525712565",
     "Customerid": "229441304",
@@ -50,6 +53,7 @@
   {
     "id": "987346353-93875757566",
     "attuid": "MAG9346",
+    "idCampaign":"SimOnly",
     "botComments": "",
     "DN": "5525713456",
     "Customerid": "8938943",
@@ -66,6 +70,7 @@
   {
     "id": "12229383-0393837773",
     "attuid": "MAG9346",
+    "idCampaign":"SimOnly",
     "botComments": "",
     "DN": "4432334431",
     "Customerid": "42342343",
