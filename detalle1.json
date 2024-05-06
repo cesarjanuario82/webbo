@@ -2,7 +2,7 @@
 	"idform":"20240301-9512645915",
     "attuid": "AP3191",
     "idCampaign": 1,
-    "idStatus": 1,
+    "idStatus": 7,
     "marca":"ATT",
     "creationdate": "2024-01-09 17:44:24",
     "updatedate": "2024-01-13 18:01:06",
@@ -103,15 +103,14 @@
 		"ScriptValidacion": "-"
 		 },
 	"bot":{
-		"BotComments": "",
-		"BotComentarioOrder": "",
-		"Finalcomment_contract": "",
-		"Status_Contract": "",
-		"UltimaRevision_Contract": "",
-		"Webformtype": "",
-		"FolioCRM":"",
-		"Customerid":"",
-		"Folio_Portabilidad":"",
-		"DN_Temporal":""
+		"BotComments": "Orden mal llenada",
+                "BotCommentarioOrder": "Orden mal llenada",
+                "Status_Contract": "Abierto",
+                "UltimaRevision_Contract": ".",
+                "FormType": "simonlyform",
+                "FolioCRM": "3465249758A",
+                "Customerid": "229188805",
+                "Folio_portabilidad": "",
+                "DNTemporal": "0"
 	}
 }
