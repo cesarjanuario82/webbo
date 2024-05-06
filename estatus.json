@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Abierto",
+        "idStatus": 1
+    },
+    {
+        "name": "¿nica interacci¿n",
+        "idStatus": 2
+    },
+    {
+        "name": "Llamada requerida al aire libre",
+        "idStatus": 3
+    },
+    {
+        "name": "Borrador",
+        "idStatus": 4
+    },
+    {
+        "name": "Asignado a BOT",
+        "idStatus": 5
+    },
+    {
+        "name": "Orden exitosa",
+        "idStatus": 6
+    },
+    {
+        "name": "Orden rechazada",
+        "idStatus": 7
+    },
+    {
+        "name": "Reasignar a BOT",
+        "idStatus": 8
+    },
+    {
+        "name": "Cola del vendedor",
+        "idStatus": 9
+    },
+    {
+        "name": "Reportado a ATT",
+        "idStatus": 10
+    },
+    {
+        "name": "Pendiente",
+        "idStatus": 11
+    },
+    {
+        "name": "En validaci¿n",
+        "idStatus": 12
+    },
+    {
+        "name": "Auto cancelado",
+        "idStatus": 13
+    },
+    {
+        "name": "Pendiente con BOT",
+        "idStatus": 14
+    },
+    {
+        "name": "Usuario cancelado",
+        "idStatus": 15
+    },
+    {
+        "name": "Recuperaci¿n vendor - Sin contacto",
+        "idStatus": 16
+    },
+    {
+        "name": "Pendiente de revisi¿n - Contrato Digital",
+        "idStatus": 17
+    },
+    {
+        "name": "Orden cancelada",
+        "idStatus": 18
+    },
+    {
+        "name": "Cancelled - Contrato Digital",
+        "idStatus": 19
+    },
+    {
+        "name": "Contrato ATNT ejecutado",
+        "idStatus": 20
+    },
+    {
+        "name": "CD ejecutado",
+        "idStatus": 21
+    },
+    {
+        "name": "Brutas",
+        "idStatus": 22
+    },
+    {
+        "name": "Contrato Legalario firmado",
+        "idStatus": 23
+    }
+]
