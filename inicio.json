@@ -1,14 +1,14 @@
 [
   {
-    "id": 1,
+    "idForm": 1,
     "attuid": "MAG9346",
     "idCampaign":1,
-    "nameCampaign":"Sim Only"
+    "nameCampaign":"Sim Only",
     "botComments": "",
     "DN": "5545712666",
     "Customerid": "575766",
     "idStatus": 6,
-    "nameStatus":"Orden Exitosa"
+    "nameStatus":"Orden Exitosa",
     "idUserBO": "",
     "Vendor": "Matias Romero",
     "creationDate": "2024-01-09 17:44:24",
@@ -16,15 +16,15 @@
     "folioCRM": "5345353534",
   },
   {
-    "id": 2,
+    "idForm": 2,
     "attuid": "MAG9346",
     "idCampaign":1,
-    "nameCampaign":"Sim Only"
+    "nameCampaign":"Sim Only",
     "botComments": "",
     "DN": "5545733443",
     "Customerid": "24234243",
     "idStatus": 6,
-    "nameStatus":"Orden Exitosa"
+    "nameStatus":"Orden Exitosa",
     "idUserBO": "",
     "Vendor": "Matias Romero",
     "creationDate": "2024-01-09 20:44:24",
@@ -35,12 +35,12 @@
     "id": 3,
     "attuid": "MAG9346",
     "idCampaign":1,
-    "nameCampaign":"Sim Only"
+    "nameCampaign":"Sim Only",
     "botComments": "",
     "DN": "5464736353",
     "Customerid": "9889322",
     "idStatus": 6,
-    "nameStatus":"Orden Exitosa"
+    "nameStatus":"Orden Exitosa",
     "idUserBO": "",
     "Vendor": "Matias Romero",
     "creationDate": "2024-01-09 17:44:24",
@@ -48,15 +48,15 @@
     "folioCRM": "457894344312",
   },
   {
-    "id": 4,
+    "idForm": 4,
     "attuid": "MAG9346",
     "idCampaign":1,
-    "nameCampaign":"Sim Only"
+    "nameCampaign":"Sim Only",
     "botComments": "",
     "DN": "5463728822",
     "Customerid": "",
     "idStatus": 4,
-    "nameStatus":"Borrador"
+    "nameStatus":"Borrador",
     "idUserBO": "",
     "Vendor": "Matias Romero",
     "creationDate": "2024-01-02 11:44:24",
@@ -64,15 +64,15 @@
     "folioCRM": "",
   },
   {
-    "id": 5,
+    "idForm": 5,
     "attuid": "MAG9346",
     "idCampaign":1,
-    "nameCampaign":"Sim Only"
+    "nameCampaign":"Sim Only",
     "botComments": "",
     "DN": "5545712344",
     "Customerid": "3322232322",
     "idStatus": 6,
-    "nameStatus":"Orden Exitosa"
+    "nameStatus":"Orden Exitosa",
     "idUserBO": "",
     "Vendor": "Matias Romero",
     "creationDate": "2024-01-09 18:44:24",
@@ -80,15 +80,15 @@
     "folioCRM": "41313122222",
   },
   {
-    "id": 6,
+    "idForm": 6,
     "attuid": "MAG9346",
     "idCampaign":1,
-    "nameCampaign":"Sim Only"
+    "nameCampaign":"Sim Only",
     "botComments": "",
     "DN": "5545712533",
     "Customerid": "",
     "idStatus": 1,
-    "nameStatus":"Abierto"
+    "nameStatus":"Abierto",
     "idUserBO": "",
     "Vendor": "Matias Romero",
     "creationDate": "2024-01-09 17:44:24",
@@ -96,15 +96,15 @@
     "folioCRM": "",
   },
   {
-    "id": 7,
+    "idForm": 7,
     "attuid": "MAG9346",
     "idCampaign":2,
-    "nameCampaign":"Adiciones"
+    "nameCampaign":"Adiciones",
     "botComments": "",
     "DN": "5446337336",
     "Customerid": "99898988",
     "idStatus": 6,
-    "nameStatus":"Orden Exitosa"
+    "nameStatus":"Orden Exitosa",
     "idUserBO": "",
     "Vendor": "Matias Romero",
     "creationDate": "2024-01-19 17:44:24",
