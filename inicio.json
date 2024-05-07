@@ -1,6 +1,6 @@
 [
   {
-    "idForm": "202645915",
+    "id": "202645915",
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -16,7 +16,7 @@
     "folioCRM": "5345353534",
   },
   {
-    "idForm": "2015",
+    "id": "2015",
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -32,7 +32,7 @@
     "folioCRM": "457894344312",
   },
   {
-    "idForm": "20240315",
+    "id": "20240315",
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -48,7 +48,7 @@
     "folioCRM": "457894344312",
   },
   {
-    "idForm": "202915",
+    "id": "202915",
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -64,7 +64,7 @@
     "folioCRM": "",
   },
   {
-    "idForm": "2024032",
+    "id": "2024032",
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -80,7 +80,7 @@
     "folioCRM": "41313122222",
   },
   {
-    "idForm": "23132",
+    "id": "23132",
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -96,7 +96,7 @@
     "folioCRM": "",
   },
   {
-    "idForm": "12112",
+    "id": "12112",
     "attuid": "MAG9346",
     "idCampaign":2,
     "nameCampaign":"Adiciones"
