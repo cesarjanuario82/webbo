@@ -1,6 +1,6 @@
 [
   {
-    "id": "202645915",
+    "id": 1,
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -16,7 +16,7 @@
     "folioCRM": "5345353534",
   },
   {
-    "id": "2015",
+    "id": 2,
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -32,7 +32,7 @@
     "folioCRM": "457894344312",
   },
   {
-    "id": "20240315",
+    "id": 3,
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -48,7 +48,7 @@
     "folioCRM": "457894344312",
   },
   {
-    "id": "202915",
+    "id": 4,
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -64,7 +64,7 @@
     "folioCRM": "",
   },
   {
-    "id": "2024032",
+    "id": 5,
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -80,7 +80,7 @@
     "folioCRM": "41313122222",
   },
   {
-    "id": "23132",
+    "id": 6,
     "attuid": "MAG9346",
     "idCampaign":1,
     "nameCampaign":"Sim Only"
@@ -96,7 +96,7 @@
     "folioCRM": "",
   },
   {
-    "id": "12112",
+    "id": 7,
     "attuid": "MAG9346",
     "idCampaign":2,
     "nameCampaign":"Adiciones"
