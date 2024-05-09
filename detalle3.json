@@ -1,8 +1,11 @@
 
 {
-    "idCampaign":1,
+    "idCampaign":2,
     "idStatus":5,
     "idProfile":2,
+    "idform":"20240301-9512645915",
+    "idStatus": 1,
+    "commentsBO":"",
     "formData":{
         "Campaign": "Adiciones",
         "AttuId": "cm460v",
@@ -97,5 +100,16 @@
         "AutorizaCredito": false,
         "TieneHipoteca": true,
         "ScriptValidacion": "-"
-    }
+    },
+    "bot":{
+		"BotComments": "",
+                "BotCommentarioOrder": "",
+                "Status_Contract": "",
+                "UltimaRevision_Contract": ".",
+                "FormType": "",
+                "FolioCRM": "",
+                "Customerid": "",
+                "Folio_portabilidad": "",
+                "DNTemporal": ""
+	}
   }
