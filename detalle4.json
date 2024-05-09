@@ -1,7 +1,9 @@
 {
     "idCampaign": 1,
+    "idform":"20240301-9512645915",
     "idStatus": 4,
     "idProfile": 2,
+    "commentsBO":"",
     "formData": {
         "Campaign": "Adiciones",
         "AttuId": "cm460v",
@@ -97,4 +99,15 @@
         "TieneHipoteca": true,
         "ScriptValidacion": "-"
     }
+    "bot":{
+		"BotComments": "",
+                "BotCommentarioOrder": "",
+                "Status_Contract": "",
+                "UltimaRevision_Contract": ".",
+                "FormType": "",
+                "FolioCRM": "",
+                "Customerid": "",
+                "Folio_portabilidad": "",
+                "DNTemporal": ""
+	}
 }
