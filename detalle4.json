@@ -98,7 +98,7 @@
         "AutorizaCredito": false,
         "TieneHipoteca": true,
         "ScriptValidacion": "-"
-    }
+    },
     "bot":{
 		"BotComments": "",
                 "BotCommentarioOrder": "",
